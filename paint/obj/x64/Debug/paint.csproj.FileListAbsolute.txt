@@ -1,0 +1,12 @@
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Debug\paint.exe.config
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Debug\paint.exe
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Debug\paint.pdb
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\MainWindow.baml
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\App.g.cs
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint_MarkupCompile.cache
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint.g.resources
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint.Properties.Resources.resources
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint.csproj.GenerateResource.Cache
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint.exe
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Debug\paint.pdb

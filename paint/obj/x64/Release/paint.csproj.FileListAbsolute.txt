@@ -1,0 +1,17 @@
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Release\paint.exe.config
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Release\paint.exe
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Release\paint.pdb
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\MainWindow.baml
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\MainWindow.g.cs
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\App.g.cs
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint_MarkupCompile.cache
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.g.resources
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.Properties.Resources.resources
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.csproj.GenerateResource.Cache
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.exe
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.pdb
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Release\paint.exe.manifest
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\bin\x64\Release\paint.application
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.TrustInfo.xml
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.exe.manifest
+C:\Users\Sabin\documents\visual studio 2017\Projects\paint\paint\obj\x64\Release\paint.application
